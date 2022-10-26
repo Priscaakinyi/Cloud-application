@@ -1,0 +1,99 @@
+/* admin and user page css */
+
+body {
+  margin: 0;
+  background-color: #ffffff;
+}
+
+p {
+  color: #ffff;
+}
+p:hover {
+  color: #e0144c;
+  cursor: pointer;
+}
+
+.navbar {
+  background: hsla(189, 80%, 34%, 1);
+
+  background: linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#11899D", endColorstr="#0D41E1", GradientType=1 );
+}
+
+.navlink {
+  color: #ffff;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: large;
+}
+.navlink:active {
+  color: #e0144c;
+}
+
+P {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: large;
+}
+
+h1 {
+  margin-top: 3%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: xx-large;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: x-large;
+}
+
+.row {
+  background: hsla(189, 80%, 34%, 1);
+
+  background: linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(189, 80%, 34%, 1) 0%,
+    hsla(225, 89%, 47%, 1) 100%
+  );
+
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#11899D", endColorstr="#0D41E1", GradientType=1 );
+}
+
+#right {
+  float: right;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(56, 147, 175, 0.3);
+}

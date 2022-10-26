@@ -1,0 +1,42 @@
+[
+  {
+    "courseID": "APT3065",
+    "courseName": "Mid-Term Project",
+    "courseDesc": "An individual project is done for the full length of the semester"
+  },
+  {
+    "courseID": "APT3095",
+    "courseName": "Cloud Computing",
+    "courseDesc": "Covers Basic Cloud Computing Concepts"
+  },
+  {
+    "courseID": "APT2040",
+    "courseName": "Operating Systems",
+    "courseDesc": "An introductory course on operating systems"
+  },
+  {
+    "courseID": "IST4035",
+    "courseName": "Advanced Web Design",
+    "courseDesc": "This course covers advanced web design principles"
+  },
+  {
+    "courseID": "APT3080",
+    "courseName": "Management Information Systems",
+    "courseDesc": "This is a business course covering the use of Information Systems in organizations"
+  },
+  {
+    "courseID": "SFE4020",
+    "courseName": "Software Architecture and Desiegn",
+    "courseDesc": "This course teaches the software architectures and designs used in building modern day applications"
+  },
+  {
+    "courseID": "APT2050",
+    "courseName": "Networking",
+    "courseDesc": "This course covers the basic networking principles"
+  },
+  {
+    "courseID": "APT3015",
+    "courseName": "Business Data Analytics",
+    "courseDesc": "Introduction to Data Analytics using R Language"
+  }
+]

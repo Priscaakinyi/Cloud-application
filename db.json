@@ -1,0 +1,104 @@
+[
+  {
+    "netid": "ab0000",
+    "firstName": "Buena",
+    "lastName": "Henderson",
+    "email": "BHenderson@lms.co.ke",
+    "passHash": "$2y$13$wLW5YQP/tvT5lPb2e3tXMeKO43St4nbkjzzh7F0vCxhBB.NvapsgS",
+    "role": "admin",
+    "lecturer": false,
+    "student": false,
+    "lecturerCourses": [],
+    "studentCourses": []
+  },
+  {
+    "netid": "ab0001",
+    "firstName": "Jeremy",
+    "lastName": "Kamau",
+    "email": "JKamau@lms.co.ke",
+    "passHash": "$2y$13$nV2hsu2kd817VdhiQVo/4Os.emdL6acwmDjPwxJlWHbi3umvhXORG",
+    "role": "user",
+    "lecturer": true,
+    "student": true,
+    "lecturerCourses": [
+      "APT3065",
+      "APT3095",
+      "APT2040"
+    ],
+    "studentCourses": [
+      "APT3080",
+      "IST4035"
+    ]
+  },
+  {
+    "netid": "ab0002",
+    "firstName": "Jane",
+    "lastName": "Clark",
+    "email": "JClark@lms.co.ke",
+    "passHash": "$2y$13$HZ1xem6lSA49X5FhVyuYfuPHWOhkWVWQmiz7MFCnYdHtJEE6b..j2",
+    "role": "user",
+    "lecturer": true,
+    "student": false,
+    "lecturerCourses": [
+      "APT3065",
+      "APT2040",
+      "IST4035",
+      "APT3080"
+    ],
+    "studentCourses": []
+  },
+  {
+    "netid": "ab0003",
+    "firstName": "Buena",
+    "lastName": "Henderson",
+    "lecturer": false,
+    "student": true,
+    "email": "BHenderson@lms.co.ke",
+    "passHash": "$2y$13$Y8HVECH.qAuQEt2knbo90.NLKJkhxZlmVVmVel7XaNYS1HVj9patW",
+    "role": "user",
+    "lecturerCourses": [],
+    "studentCourses": [
+      "APT2040",
+      "IST4035",
+      "APT3080",
+      "SFE4020"
+    ]
+  },
+  {
+    "netid": "ab0004",
+    "firstName": "Alex",
+    "lastName": "Juma",
+    "email": "AJuma@lms.co.ke",
+    "passHash": "$2y$13$9B5gy4NWFNb9j24ffppPbeEV6WjXnOs2TTXm4G2WPFmccgUrhidL2",
+    "role": "user",
+    "lecturer": false,
+    "student": true,
+    "lecturerCourseslecturerCourses": [],
+    "studentCourses": [
+      "APT2050",
+      "IST4035",
+      "SFE4020",
+      "APT2040"
+    ]
+  },
+  {
+    "netid": "ab0005",
+    "firstName": "Gloria",
+    "lastName": "Smith",
+    "email": "GSmith@lms.co.ke",
+    "password": "gloriasmith1010",
+    "role": "user",
+    "lecturer": "False",
+    "student": "False",
+    "lecturerCourses": [
+      "APT3065",
+      "APT3095",
+      "APT2040"
+    ],
+    "studentCourses": [
+      "APT3065",
+      "APT3095",
+      "APT2040"
+    ]
+  }
+]
