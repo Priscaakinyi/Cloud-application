@@ -12,6 +12,7 @@ const jsonParser = express.json();
 
 const cookieName = "LearnerId"; // session ID cookie name
 const oneDay = 1000 * 60 * 60 * 24;
+const port = process.env.PORT || 3000;
 
 let sessionInfo = [];
 
@@ -212,8 +213,8 @@ app.get('/sessionInfo', (req, res) => {
 	res.send(sessionInfo);
 })
 
-app.listen(4500,function(){
-	console.log('Listening at port 4500...');
+app.listen(port,function(){
+	console.log('Listening at port...' + port);
 });
 
 module.exports = app;
